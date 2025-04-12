@@ -1,0 +1,17 @@
+p{
+    font-size: 10px;
+}
+
+.compartida{
+    font-weight: bold;
+    color: mediumslateblue;
+}
+
+.texto{
+color: crimson;
+}
+
+div>h2{
+    border: 5px solid blue;
+    border-radius: 15px;
+}
